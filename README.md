@@ -62,9 +62,16 @@ Support and Documentation
 Comprehensive documentation is available to guide you through setup, customization, and troubleshooting.
 For additional support, join our community forums or contact our dedicated support team.
 
+User register
+
+![image](https://github.com/princesahil07/VideoCall/assets/97822056/a29a63cf-6261-4a3d-a451-02bfca985982)
+
+
 User Login
+
 ![image](https://github.com/princesahil07/VideoCall/assets/97822056/1838ed22-2c16-476c-9021-7e913341ffd3)
 
 dashboard
+
 ![image](https://github.com/princesahil07/VideoCall/assets/97822056/1b5cf655-b9ec-4a2a-9680-df24802340e2)
 
