@@ -56,11 +56,7 @@ Access the App:
 Open your browser and navigate to http://localhost:8000
 
 Customization
-Theming: Easily customize the look and feel of the app by modifying the CSS files.
 Extensions: Extend the app’s functionality by integrating additional Django apps or third-party plugins.
-Support and Documentation
-Comprehensive documentation is available to guide you through setup, customization, and troubleshooting.
-For additional support, join our community forums or contact our dedicated support team.
 
 User register
 
