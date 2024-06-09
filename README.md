@@ -6,7 +6,7 @@ Our Video Call App is a robust and intuitive web-based application built with Dj
 Key Features
 High-Quality Video Calls
 
-Experience crystal-clear video and audio during your calls, supported by the latest WebRTC technology.
+Experience crystal-clear video and audio during your calls, supported by the latest zegocloud technology.
 User Authentication
 
 Secure user authentication using Django's built-in authentication system, ensuring that only authorized users can access the app.
