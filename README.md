@@ -64,14 +64,15 @@ For additional support, join our community forums or contact our dedicated suppo
 
 User register
 
-![image](https://github.com/princesahil07/VideoCall/assets/97822056/a29a63cf-6261-4a3d-a451-02bfca985982)
-
+![image](https://github.com/princesahil07/VideoCall/assets/97822056/2ec30f35-4b95-47d4-a831-96f0badac12a)
 
 User Login
 
-![image](https://github.com/princesahil07/VideoCall/assets/97822056/1838ed22-2c16-476c-9021-7e913341ffd3)
+![image](https://github.com/princesahil07/VideoCall/assets/97822056/5e342224-35eb-4e6d-94fc-eba1ba5b805f)
+
 
 dashboard
 
-![image](https://github.com/princesahil07/VideoCall/assets/97822056/1b5cf655-b9ec-4a2a-9680-df24802340e2)
+![image](https://github.com/princesahil07/VideoCall/assets/97822056/6b26f9ea-2fd6-40e3-a546-3f4e36ebdcb8)
+
 
