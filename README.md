@@ -38,7 +38,7 @@ Installation and Setup
 Clone the Repository:
 
 bash
-git clone https://github.com/princesahil07/videocall.git
+git clone https://github.com/princesahil07/VideoCall.git
 cd videocallapp
 Install Dependencies:
 
